@@ -34,5 +34,5 @@ int main() {
 
     cout<<"Current position is : "<<"("<<pos.x<<","<<pos.y<<")"<<endl;
     return 0;
-
+    
 }
